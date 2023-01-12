@@ -1,0 +1,44 @@
+body
+{
+    min-height: 100vh;
+    background-color: antiquewhite;
+}
+
+.top{
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.ciew{
+    float: left;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 3px solid black;
+    width: 250px;
+    height: 400px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.ciewsz{
+    float: right;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 3px solid black;
+    width: 250px;
+    height: 400px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.sro {
+    margin:0 auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 3px solid black;
+    width: 1360px;
+    height: 400px;
+    border-radius: 10px;
+    text-align: left;
+}
